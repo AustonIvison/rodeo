@@ -3,13 +3,13 @@
 # Declare variables to be passed into your templates.
 
 autoplay: false
-title: "SUSE presents"
+title: "Github presents"
 theme: "custom"
 
 replicaCount: 1
 
 image:
-  repository: boomstack/tetris
+  repository: austonivison/tetris-demo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
